@@ -1,7 +1,11 @@
 # Hivelix
 
-![Hivelix](../images/logo_transparent.png#gh-dark-mode-only)
-![Hivelix](../images/logo_green.png#gh-light-mode-only)
+<!-- ![Hivelix](../images/logo_transparent.png#gh-dark-mode-only)
+![Hivelix](../images/logo_green.png#gh-light-mode-only)-->
+
+![Logo](https://github.com/Hivelix/.github/assets/22714778/f8a7df98-48f8-407d-8fed-692f12182d75.png)
+
+
 
 [COMSOL Certified Consultant](https://www.comsol.com/partners-consultants/certified-consultants/hivelix) 
 
