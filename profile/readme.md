@@ -1,16 +1,16 @@
 # Hivelix
 
-<!-- ![Hivelix](../images/logo_transparent.png#gh-dark-mode-only)
-![Hivelix](../images/logo_green.png#gh-light-mode-only)-->
+<img src="https://github.com/Hivelix/.github/assets/22714778/f8a7df98-48f8-407d-8fed-692f12182d75.png" alt="Hivelix" width="100%">
 
-![Logo](https://github.com/Hivelix/.github/assets/22714778/f8a7df98-48f8-407d-8fed-692f12182d75.png)
-
-<a href="https://www.comsol.com/partners-consultants/certified-consultants/hivelix">
-  <img src="https://cdn.comsol.com/consultants/comsol-cc.png" alt="COMSOL Certified Consultant">
-</a>
-<a href="https://www.linkedin.com/company/hivelix/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+<div align="center">
+  <a href="https://www.comsol.com/partners-consultants/certified-consultants/hivelix" style="margin: 10%">
+    <img src="https://cdn.comsol.com/consultants/comsol-cc.png" alt="COMSOL Certified Consultant">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/hivelix/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 87px">
+  </a>
+</div>
 
 ## Overview
 
