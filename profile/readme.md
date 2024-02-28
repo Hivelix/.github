@@ -14,7 +14,7 @@
 ## Overview
 
 <p align="justify">Hivelix provides expert consulting services for multiphysics modeling and digital twin development applied to chemical and electrochemical processes and phenomenon for many industries. Our expertise in theoretical and experimental electrochemistry combines with our simulation and data skills allows us to help you at all levels of R&D, from fundamental understanding to industrialization through design offices.
-We develop new theoretical models, optimize known models but also apply our hybrid methodology combining physWe develop new theoretical models, optimize known models but also apply our hybrid methodology combining physics-based model and AI methodology to solve your problems.
+We develop new theoretical models, optimize known models but also apply our hybrid methodology combining physics-based model and AI methodology to solve your problems.
 To help you to integrate the benefits of digital twins and the industry 4.0 into your business, we offer the following services:</p>
 
 - Research and development in multiphysics modeling and simulation
