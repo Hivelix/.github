@@ -5,11 +5,12 @@
 
 ![Logo](https://github.com/Hivelix/.github/assets/22714778/f8a7df98-48f8-407d-8fed-692f12182d75.png)
 
-
-
-[COMSOL Certified Consultant](https://www.comsol.com/partners-consultants/certified-consultants/hivelix) 
-
-[LinkedIn](https://www.linkedin.com/company/hivelix/)
+<a href="https://www.comsol.com/partners-consultants/certified-consultants/hivelix">
+  <img src="https://cdn.comsol.com/consultants/comsol-cc.png" alt="COMSOL Certified Consultant">
+</a>
+<a href="https://www.linkedin.com/company/hivelix/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
 ## Overview
 
