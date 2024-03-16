@@ -17,6 +17,7 @@
 <p align="justify">Hivelix, an expert company in multiphysics simulation and data science/machine learning, offers consulting services in research and development as well as custom software development integrating multiphysics simulation and/or machine learning to help you incorporate the benefits of digital twins and Industry 4.0 into your business.
 Our expertise is focused on improving the understanding of phenomena governing industrial processes or systems, as well as their optimization.
 Our interdisciplinary approach, combining multiphysics simulation and data science, allows us to provide complete and customized solutions that meet the specific challenges of each client. Whether it's for the design of new products, the improvement of existing processes, or the implementation of predictive maintenance strategies, we bring our technical expertise and vision to help our partners achieve operational excellence. We cover a wide range of industries such as aerospace and aeronautics, automotive, electronics, medical, luxury, additive manufacturing, and the energy sector.</p>
+
 Our team's areas of expertise include:
 
 - Surface finishing industry
