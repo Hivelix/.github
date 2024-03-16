@@ -14,29 +14,24 @@
 
 ## Overview
 
-<p align="justify">Hivelix provides expert consulting services for multiphysics modeling and digital twin development applied to chemical and electrochemical processes and phenomenon for many industries. Our expertise in theoretical and experimental electrochemistry combines with our simulation and data skills allows us to help you at all levels of R&D, from fundamental understanding to industrialization through design offices.
-We develop new theoretical models, optimize known models but also apply our hybrid methodology combining physics-based model and AI methodology to solve your problems.
-To help you to integrate the benefits of digital twins and the industry 4.0 into your business, we offer the following services:</p>
-
-- Research and development in multiphysics modeling and simulation
-- Development of customized and accurate multiphysics digital twins to help you to optimize your processes.
-- Creating value from your data through a disruptive methodology combining data science, AI and physics-based modeling.
-- Computer-aided design and optimization of your process
-- Computer aided problem solving
-- Support and training on Comsol Multiphsyics software
-
-## Area of expertise
+<p align="justify">Hivelix, an expert company in multiphysics simulation and data science/machine learning, offers consulting services in research and development as well as custom software development integrating multiphysics simulation and/or machine learning to help you incorporate the benefits of digital twins and Industry 4.0 into your business.
+Our expertise is focused on improving the understanding of phenomena governing industrial processes or systems, as well as their optimization.
+Our interdisciplinary approach, combining multiphysics simulation and data science, allows us to provide complete and customized solutions that meet the specific challenges of each client. Whether it's for the design of new products, the improvement of existing processes, or the implementation of predictive maintenance strategies, we bring our technical expertise and vision to help our partners achieve operational excellence. We cover a wide range of industries such as aerospace and aeronautics, automotive, electronics, medical, luxury, additive manufacturing, and the energy sector.</p>
+Our team's areas of expertise include:
 
 - Surface finishing industry
-  - Electroplating applied to standard and additive manufacturing parts
-  - Electropolishing applied to standard and additive manufacturing parts
-  - Electroforming
-  - Microscale and macroscale electroplating for PCB and microelectronics application
-  - Anodization
-  - electrophoretic deposition (anaphoresis, cataphoresis…)
-  - chemical deposition and chemical etching
-  - Electrochemical machining
-- Corrosion
-- Multi-ion and computational fluid dynamic
+- Hydrogen sector: fuel cells, electrolyzers
+- Additive manufacturing
+- Electroplating applied to standard and additive manufacturing parts
+- Batteries
+- Corrosion.
 
-<p align="justify">We developed multi-ion and multiphysics approach (CFD, two phase flow, tertiary current distribution…) in order to increase the accuracy of simulations and digital twins.</p>
+We offer the following services:
+- Bibliographic and technological review
+- Research and development in multiphysics modeling and simulation
+- Development of customized multiphysics digital twins
+- Creating value from your data through data science and machine learning
+- Development of data exploitation software
+- Support and training in simulation on Comsol Multiphysics software (certified consultant)
+
+
